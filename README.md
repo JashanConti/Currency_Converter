@@ -1,0 +1,1 @@
+The Java Currency Converter project is a console-based application designed to facilitate the conversion of currency from USD to another specified currency. This application provides users with a simple interface to input an amount in US dollars and obtain the equivalent amount in the selected foreign currency
